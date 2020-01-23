@@ -1,3 +1,4 @@
+- The goal is to write a script for word counting files and also implement a 'complex' module capable of operations on complex numbers.
 - For project task details read ProjectDescription.pdf
 - Note that this is one of the smaller projects.
 
