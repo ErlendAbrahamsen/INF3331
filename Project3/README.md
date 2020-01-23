@@ -1,4 +1,4 @@
-## For project task details read ProjectDescription.pdf
+- For project task details read ProjectDescription.pdf
 - Note that this is one of the smaller projects.
 
 ## How to run wc.py script:
