@@ -9,7 +9,8 @@ Usage:
 - python wc.py '*'        , to wordcount all files in directory. important with quotes!
 - python wc.py '*.py'     , to wordcount all python files in directory. important with quotes!
 
-prints (#lines, #words, #characters, 'filename'). See wc_demo.png example.
+prints (#lines, #words, #characters, 'filename')
+- See wc_demo.png example.
 
 
 ## How to test complex.py:
